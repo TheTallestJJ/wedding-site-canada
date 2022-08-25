@@ -20,6 +20,9 @@ defaultContentLanguage = "en"           # Default language to use
 [languages.en]
   languageCode = "en"
 
+[markup.goldmark.renderer]
+ unsafe = true
+
 [author]                  # essential                     # 必需
   name = "xianmin"
 
