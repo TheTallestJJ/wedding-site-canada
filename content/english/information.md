@@ -1,5 +1,5 @@
 ---
-title: "Location"
+title: "Information"
 description: "Your description, you can add more fields below of course..."
 ---
 <h1>Trouw locatie</h1>
