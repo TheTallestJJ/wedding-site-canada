@@ -2,21 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wedsite</title>
-    <link>http://localhost:1313/</link>
+    <link>https://wedding-site-cs1.pages.dev/</link>
     <description>Recent content on Wedsite</description>
     <generator>Hugo -- gohugo.io</generator>
     
-        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://wedding-site-cs1.pages.dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>http://localhost:1313/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Hotels</title>
+      <link>https://wedding-site-cs1.pages.dev/hotels/</link>
+      <pubDate>Mon, 26 Sep 2022 22:06:53 +0200</pubDate>
       
-      <guid>http://localhost:1313/</guid>
+      <guid>https://wedding-site-cs1.pages.dev/hotels/</guid>
       
         <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://wedding-site-cs1.pages.dev/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wedding-site-cs1.pages.dev/schedule/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Information</title>
+      <link>https://wedding-site-cs1.pages.dev/information/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wedding-site-cs1.pages.dev/information/</guid>
+      
+        <description>&lt;h1&gt;Trouw locatie&lt;/h1&gt;
+Kerk van wirdum
+&lt;p&gt;Kerkeweg 24,&lt;br /&gt;
+9917 PJ Wirdum&lt;/p&gt;
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1685.109897753858!2d6.784664420296356!3d53.32346488180914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c9d64d8c638ecb%3A0x2dd401456b93e093!2sKerk%20van%20Wirdum!5e0!3m2!1sen!2snl!4v1664216912685!5m2!1sen!2snl&#34; width=&#34;600&#34; height=&#34;450&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;no-referrer-when-downgrade&#34;&gt;&lt;/iframe&gt;
+&lt;hr /&gt;
+&lt;h1&gt;Feest locatie&lt;/h1&gt;
+&lt;p&gt;&amp;rsquo;t Regthuys&lt;/p&gt;
+&lt;p&gt;Fromaweg 1,&lt;br/&gt;
+9917 PK Wirdum&lt;/p&gt;
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1685.109897753858!2d6.784664420296356!3d53.32346488180914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c9d64df39029cd%3A0xe52d2968ae386f57!2sRestaurant%20&amp;#39;t%20Regthuys!5e0!3m2!1sen!2snl!4v1664216962066!5m2!1sen!2snl&#34; width=&#34;600&#34; height=&#34;450&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;no-referrer-when-downgrade&#34;&gt;&lt;/iframe&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Your title</title>
+      <link>https://wedding-site-cs1.pages.dev/rsvp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wedding-site-cs1.pages.dev/rsvp/</guid>
+      
+        <description>&lt;script src=&#34;https://static.airtable.com/js/embed/embed_snippet_v1.js&#34;&gt;&lt;/script&gt;&lt;iframe class=&#34;airtable-embed airtable-dynamic-height&#34; src=&#34;https://airtable.com/embed/shrUhrVJUI9RXlmBv?backgroundColor=green&#34; frameborder=&#34;0&#34; onmousewheel=&#34;&#34; width=&#34;100%&#34; height=&#34;1108&#34; style=&#34;background: transparent; border: 1px solid #ccc;&#34;&gt;&lt;/iframe&gt;
+</description>
       
     </item>
     

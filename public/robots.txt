@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://localhost:1313/sitemap.xml
+Sitemap: https://wedding-site-cs1.pages.dev/sitemap.xml
