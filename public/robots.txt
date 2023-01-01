@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://wedding-site-cs1.pages.dev/sitemap.xml
+Sitemap: https://www.jetfield.eu/sitemap.xml

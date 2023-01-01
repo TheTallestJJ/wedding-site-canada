@@ -2,7 +2,7 @@
 # If you want to see the full configuration, please check `full-config.toml` .
 # And see https://gohugo.io/getting-started/configuration/ .
 
-baseURL = "https://wedding-site-cs1.pages.dev"
+baseURL = "https://www.jetfield.eu"
 title = "Wedding site - Kathryn Duffield and Jeroen Jetten"
 enableRobotsTXT = true
 enableEmoji = true

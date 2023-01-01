@@ -1,43 +1,43 @@
-<?xml-stylesheet type="text/xsl" href="https://wedding-site-cs1.pages.dev/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.jetfield.eu/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://wedding-site-cs1.pages.dev/nl/hotels/</loc>
+    <loc>https://www.jetfield.eu/nl/hotels/</loc>
     <lastmod>2022-09-26T22:06:53+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wedding-site-cs1.pages.dev/nl/</loc>
+    <loc>https://www.jetfield.eu/nl/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://wedding-site-cs1.pages.dev/nl/schedule/</loc>
+    <loc>https://www.jetfield.eu/nl/schedule/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://wedding-site-cs1.pages.dev/nl/categories/</loc>
+    <loc>https://www.jetfield.eu/nl/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wedding-site-cs1.pages.dev/nl/information/</loc>
+    <loc>https://www.jetfield.eu/nl/information/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wedding-site-cs1.pages.dev/nl/tags/</loc>
+    <loc>https://www.jetfield.eu/nl/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wedding-site-cs1.pages.dev/nl/rsvp/</loc>
+    <loc>https://www.jetfield.eu/nl/rsvp/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

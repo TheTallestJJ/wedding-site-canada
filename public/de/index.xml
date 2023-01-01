@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>geen idee</title>
-    <link>https://wedding-site-cs1.pages.dev/de/</link>
+    <link>https://www.jetfield.eu/de/</link>
     <description>Recent content on geen idee</description>
     <generator>Hugo -- gohugo.io</generator>
     
-        <atom:link href="https://wedding-site-cs1.pages.dev/de/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.jetfield.eu/de/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hotels</title>
-      <link>https://wedding-site-cs1.pages.dev/de/hotels/</link>
+      <link>https://www.jetfield.eu/de/hotels/</link>
       <pubDate>Mon, 26 Sep 2022 22:06:53 +0200</pubDate>
       
-      <guid>https://wedding-site-cs1.pages.dev/de/hotels/</guid>
+      <guid>https://www.jetfield.eu/de/hotels/</guid>
       
         <description></description>
       
@@ -22,10 +22,10 @@
     
     <item>
       <title></title>
-      <link>https://wedding-site-cs1.pages.dev/de/schedule/</link>
+      <link>https://www.jetfield.eu/de/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wedding-site-cs1.pages.dev/de/schedule/</guid>
+      <guid>https://www.jetfield.eu/de/schedule/</guid>
       
         <description></description>
       
@@ -33,10 +33,10 @@
     
     <item>
       <title>Location</title>
-      <link>https://wedding-site-cs1.pages.dev/de/information/</link>
+      <link>https://www.jetfield.eu/de/information/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wedding-site-cs1.pages.dev/de/information/</guid>
+      <guid>https://www.jetfield.eu/de/information/</guid>
       
         <description>&lt;h1&gt;Trouw locatie&lt;/h1&gt;
 Kerk van wirdum
@@ -55,10 +55,10 @@ Kerk van wirdum
     
     <item>
       <title>Your title</title>
-      <link>https://wedding-site-cs1.pages.dev/de/rsvp/</link>
+      <link>https://www.jetfield.eu/de/rsvp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wedding-site-cs1.pages.dev/de/rsvp/</guid>
+      <guid>https://www.jetfield.eu/de/rsvp/</guid>
       
         <description>&lt;script src=&#34;https://static.airtable.com/js/embed/embed_snippet_v1.js&#34;&gt;&lt;/script&gt;&lt;iframe class=&#34;airtable-embed airtable-dynamic-height&#34; src=&#34;https://airtable.com/embed/shrUhrVJUI9RXlmBv?backgroundColor=green&#34; frameborder=&#34;0&#34; onmousewheel=&#34;&#34; width=&#34;100%&#34; height=&#34;1108&#34; style=&#34;background: transparent; border: 1px solid #ccc;&#34;&gt;&lt;/iframe&gt;
 </description>
