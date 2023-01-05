@@ -1,12 +1,11 @@
 {{ define "content" -}}
 <article class="post bg-white">
+  {{ i18n "IntroText" . }}
   <!-- post-header -->
   <header class="post-header">
     <h1 class="post-title">{{ .Title }}</h1>
   </header>
 
-  <!-- TOC -->
-  {{ partial "post/toc.html" . }}
 
   <!-- Content -->
   <div class="post-content">
