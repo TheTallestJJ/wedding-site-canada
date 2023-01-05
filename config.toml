@@ -154,5 +154,5 @@ defaultContentLanguage = "en"           # Default language to use
   customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
 
   [params.social]                                         # 社交链接
-    a-email = "mailto:me@jeroen-jetten.com"
+    a-email = "mailto:kathryn-and-jeroen@jetfield.eu"
     g-github = "https://github.com/TheTallestJJ/wedding-site"

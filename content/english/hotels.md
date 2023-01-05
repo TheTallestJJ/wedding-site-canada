@@ -4,7 +4,7 @@ date: 2022-09-26T22:06:53+02:00
 draft: false
 ---
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1cI-A2JbfgCQ5K100wCcERvE9fKmSLcQ&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1cI-A2JbfgCQ5K100wCcERvE9fKmSLcQ&ehbc=2E312F" width="640" height="480"></iframe>
 
 Whether you stay in the city, or within the province, there are plenty of places to stay! Here are some of our recommendations.
 
@@ -12,20 +12,21 @@ Whether you stay in the city, or within the province, there are plenty of places
 
 <h3>City Hotel Groningen</h3>
 
-Gedempte Kattendiep 25, 
-9711 PM Groningen
+Gedempte Kattendiep 25<br />
+9711 PM Groningen<br />
 Netherlands
 
-<h3>Hotel de Doelen</h3>
+<h3>Best Western Hotel Groningen Centre</h3>
 
-Grote Markt 36
-9711 LV Groningen
+Radesingel 50<br />
+9711 EK Groningen<br />
 Netherlands
+
 
 <h3>The Market Hotel</h3>
 
-Grote Markt 31
-9712 HS Groningen
+Grote Markt 31<br />
+9712 HS Groningen<br />
 Netherlands
 
 <h1>Groningen (Province)</h1>
@@ -33,18 +34,18 @@ Netherlands
 
 <h3>Hotel Spoorzicht</h3>
 
-Molenweg 11
-9919 AE Loppersum
+Molenweg 11<br />
+9919 AE Loppersum<br />
 Netherlands
 
 <h3>Eemshotel</h3>
 
-Zeebadweg 2
-9933 AV Delfzijl
+Zeebadweg 2<br />
+9933 AV Delfzijl<br />
 Netherlands
 
 <h3>Estate Ekenstein</h3>
 
-Alberdaweg 70
-9901 TA Appingedam
+Alberdaweg 70<br />
+9901 TA Appingedam<br />
 Netherlands
