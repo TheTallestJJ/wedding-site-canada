@@ -14,13 +14,13 @@
   </url>
   
   <url>
-    <loc>https://www.jetfield.eu/nl/categories/</loc>
+    <loc>https://www.jetfield.eu/nl/directions/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.jetfield.eu/nl/directions/</loc>
+    <loc>https://www.jetfield.eu/nl/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

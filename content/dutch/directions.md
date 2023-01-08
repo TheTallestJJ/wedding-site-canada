@@ -1,5 +1,5 @@
 ---
-title: "Directions"
+title: "Bereikbaarheid"
 description: "Your description, you can add more fields below of course..."
 ---
 

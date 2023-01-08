@@ -92,12 +92,12 @@ defaultContentLanguage = "en"           # Default language to use
   identifier = "info"
   url = "/information/"
 [[languages.nl.menu.main]]
-  name = "Schedule"
+  name = "Planning"
   weight = 30
   identifier = "schedule"
   url = "/schedule/"
 [[languages.nl.menu.main]]
-  name = "Directions"
+  name = "Bereikbaarheid"
   weight = 40
   identifier = "directions"
   url = "/directions/"
