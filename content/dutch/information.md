@@ -8,7 +8,7 @@ description: "Your description, you can add more fields below of course..."
 <h1>Trouw locatie</h1>
 
 De trouw ceremonie word gehouden in het kerkje van Wirdum.
-Een dertiende eeuwse kerk op het Groninger platteland. Een idyllische locatie door het gropen en de rust van de omgeving.
+Een dertiende eeuwse kerk op het Groninger platteland. Een idyllische locatie door het groen en de rust van de omgeving.
 
 Kerk van wirdum
 

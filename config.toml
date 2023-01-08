@@ -96,7 +96,7 @@ defaultContentLanguage = "en"           # Default language to use
   weight = 30
   identifier = "schedule"
   url = "/schedule/"
-[[menu.main]]
+[[languages.nl.menu.main]]
   name = "Directions"
   weight = 40
   identifier = "directions"
@@ -130,7 +130,7 @@ defaultContentLanguage = "en"           # Default language to use
   weight = 30
   identifier = "schedule"
   url = "/schedule/"
-[[menu.main]]
+[[languages.de.menu.main]]
   name = "Directions"
   weight = 40
   identifier = "directions"
