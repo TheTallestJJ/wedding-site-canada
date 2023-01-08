@@ -15,3 +15,6 @@ description: "Our planning, guarenteed to be wrong, but we'll try to keep to it 
 8:00 PM - Party!
 
 12:00 AM - Pierogies
+
+12:30 AM Send off with sparklers
+
