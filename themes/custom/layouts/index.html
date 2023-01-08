@@ -1,5 +1,6 @@
 {{ define "content" -}}
 <article class="post bg-white">
+  <h1>{{ i18n "IntroTitle" . }}</h1>
   {{ i18n "IntroText" . }}
   <!-- post-header -->
   <header class="post-header">
@@ -16,8 +17,8 @@
     </ul>
   </div>
 
-  <!-- Reward -->
-  {{ partial "post/reward.html" . }}
+  <h1>{{ i18n "OurStoryTitle" . }}</h1>
+  {{ i18n "OurStory" . }}
 </article>
 
 {{- end }}

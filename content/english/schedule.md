@@ -1,3 +1,7 @@
+---
+title: "Schedule"
+description: "Our planning, guarenteed to be wrong, but we'll try to keep to it anyways."
+---
 3:00 PM - Arrival
 
 3:30 PM  - Ceremony in Church

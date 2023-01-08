@@ -14,11 +14,6 @@
   </url>
   
   <url>
-    <loc>https://www.jetfield.eu/schedule/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.jetfield.eu/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -31,13 +26,19 @@
   </url>
   
   <url>
-    <loc>https://www.jetfield.eu/tags/</loc>
+    <loc>https://www.jetfield.eu/rsvp/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.jetfield.eu/rsvp/</loc>
+    <loc>https://www.jetfield.eu/schedule/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jetfield.eu/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

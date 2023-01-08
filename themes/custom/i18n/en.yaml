@@ -1,5 +1,14 @@
+- id: IntroTitle
+  translation: Welcome
+
 - id: IntroText
   translation: Jeroen and Kathryn invite you to celebrate our wedding on April 21, 2023! We hope you’ll be able to join us on this very special day!
+
+- id: OurStoryTitle
+  translation: Our story
+
+- id: OurStory
+  translation: Jeroen and Kathryn met on the internet back in 2007. After corresponding for around two years, they decided to become a couple on January 18, 2009. Their relationship became cemented when they met offline for the first time on July 11, 2009 in Munich. The rest, as they say, is history.
 
 - id: archive
   translation: Archive
