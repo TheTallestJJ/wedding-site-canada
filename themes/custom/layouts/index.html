@@ -1,12 +1,14 @@
 {{ define "content" -}}
 <article class="post bg-white">
-  <h1>{{ i18n "IntroTitle" . }}</h1>
-  {{ i18n "IntroText" . }}
-  <!-- post-header -->
-  <header class="post-header">
-    <h1 class="post-title">{{ .Title }}</h1>
-  </header>
-
+  <div>  
+    <img src="homepage-image.png" style="float:right;width:40%">
+    <h1>{{ i18n "IntroTitle" . }}</h1>
+    {{ i18n "IntroText" . }}
+    <!-- post-header -->
+    <header class="post-header">
+      <h1 class="post-title">{{ .Title }}</h1>
+    </header>
+  </div>
 
   <!-- Content -->
   <div class="post-content">
@@ -16,6 +18,7 @@
       {{ end }}
     </ul>
   </div>
+
 
   <h1>{{ i18n "OurStoryTitle" . }}</h1>
   {{ i18n "OurStory" . }}

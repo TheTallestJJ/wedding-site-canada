@@ -31,13 +31,13 @@
   </url>
   
   <url>
-    <loc>https://www.jetfield.eu/nl/tags/</loc>
+    <loc>https://www.jetfield.eu/nl/rsvp/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.jetfield.eu/nl/rsvp/</loc>
+    <loc>https://www.jetfield.eu/nl/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
