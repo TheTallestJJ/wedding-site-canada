@@ -4,6 +4,12 @@
 - id: IntroText
   translation: Jeroen en Kathryn nodigen je uit om onze bruiloft te vieren op 21 april, 2023! We hopen dat je er bij kunt zijn om samen met ons deze belangrijke dag te beleven!
 
+- id: LanguageTitle
+  translation: Talen
+
+- id: LanguageText
+  translation: Deze website is beschikbaar in de volgende talen
+
 - id: OurStoryTitle
   translation: Ons verhaal
 

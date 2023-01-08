@@ -4,6 +4,12 @@
 - id: IntroText
   translation: Jeroen and Kathryn invite you to celebrate our wedding on April 21, 2023! We hope you’ll be able to join us on this very special day!
 
+- id: LanguageTitle
+  translation: Languages
+
+- id: LanguageText
+  translation:  This website is available in the following languages
+
 - id: OurStoryTitle
   translation: Our story
 
