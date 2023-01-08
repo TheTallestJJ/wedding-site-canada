@@ -2,19 +2,19 @@
 title: "Schedule"
 description: "Our planning, guarenteed to be wrong, but we'll try to keep to it anyways."
 ---
-3:00 PM - Arrival
+<b>3:00 PM</b> - Arrival at restaurant
 
-3:30 PM  - Ceremony in Church
+<b>3:30 PM</b>  - Ceremony in Church
 
-4:30 PM  - Prosecco and Alcohol Free Aperitif
+<b>4:30 PM</b>  - Prosecco and Alcohol Free Aperitif
 
-5:00 PM - 3 Course dinner with included drinks
+<b>5:00 PM</b> - 3 Course dinner with included drinks
 
-7:30 PM - Coffee/Tea and treats
+<b>7:30 PM</b> - Coffee/Tea and treats
 
-8:00 PM - Party!
+<b>8:00 PM</b> - Party!
 
-12:00 AM - Pierogies
+<b>12:00 AM</b> - Pierogies
 
-12:30 AM Send off with sparklers
+<b>12:30 AM</b> - Send off with sparklers
 
