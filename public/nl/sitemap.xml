@@ -14,6 +14,11 @@
   </url>
   
   <url>
+    <loc>https://www.jetfield.eu/nl/directions/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.jetfield.eu/nl/schedule/</loc>
     <priority>0</priority>
   </url>

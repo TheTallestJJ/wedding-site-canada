@@ -63,13 +63,18 @@ defaultContentLanguage = "en"           # Default language to use
   identifier = "schedule"
   url = "/schedule/"
 [[menu.main]]
-  name = "Hotels"
+  name = "Directions"
   weight = 40
+  identifier = "directions"
+  url = "/directions/"
+[[menu.main]]
+  name = "Hotels"
+  weight = 50
   identifier = "hotels"
   url = "/hotels/"
 [[menu.main]]
   name = "RSVP"
-  weight = 50
+  weight = 60
   identifier = "rsvp"
   url = "/rsvp/"
 
@@ -91,14 +96,19 @@ defaultContentLanguage = "en"           # Default language to use
   weight = 30
   identifier = "schedule"
   url = "/schedule/"
+[[menu.main]]
+  name = "Directions"
+  weight = 40
+  identifier = "directions"
+  url = "/directions/"
 [[languages.nl.menu.main]]
   name = "Hotels"
-  weight = 40
+  weight = 50
   identifier = "hotels"
   url = "/hotels/"
 [[languages.nl.menu.main]]
   name = "RSVP"
-  weight = 50
+  weight = 60
   identifier = "rsvp"
   url = "/rsvp/"
 
@@ -120,14 +130,19 @@ defaultContentLanguage = "en"           # Default language to use
   weight = 30
   identifier = "schedule"
   url = "/schedule/"
+[[menu.main]]
+  name = "Directions"
+  weight = 40
+  identifier = "directions"
+  url = "/directions/"
 [[languages.de.menu.main]]
   name = "Hotels"
-  weight = 40
+  weight = 50
   identifier = "hotels"
   url = "/hotels/"
 [[languages.de.menu.main]]
   name = "RSVP"
-  weight = 50
+  weight = 60
   identifier = "rsvp"
   url = "/rsvp/"
 

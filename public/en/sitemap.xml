@@ -20,6 +20,12 @@
   </url>
   
   <url>
+    <loc>https://www.jetfield.eu/directions/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.jetfield.eu/information/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
