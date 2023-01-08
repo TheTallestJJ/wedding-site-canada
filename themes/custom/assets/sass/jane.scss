@@ -19,3 +19,11 @@
 @import "_partial/404";
 @import "_partial/author_info";
 @import "_partial/search";
+
+.link {
+  color: #c05b4d;
+}
+
+.link:hover {
+  border-bottom: 1px solid #c05b4d;
+}
