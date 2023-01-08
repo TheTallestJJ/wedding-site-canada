@@ -2,20 +2,27 @@
 title: "Informatie"
 description: "Your description, you can add more fields below of course..."
 ---
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1zpfMXipxe8UgFLqH1IiIvPz-AHADe_8&ehbc=2E312F" width="640" height="480"></iframe>
+
 <h1>Trouw locatie</h1>
+
+De trouw ceremonie word gehouden in het kerkje van Wirdum.
+Een dertiende eeuwse kerk op het Groninger platteland. Een idyllische locatie door het gropen en de rust van de omgeving.
+
 Kerk van wirdum
 
 Kerkeweg 24,<br />
 9917 PJ Wirdum
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1685.109897753858!2d6.784664420296356!3d53.32346488180914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c9d64d8c638ecb%3A0x2dd401456b93e093!2sKerk%20van%20Wirdum!5e0!3m2!1sen!2snl!4v1664216912685!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-<hr />
 <h1>Feest locatie</h1>
+
+Het trouwfeest wordt gehouden in het restaurant 't Regthuys. 't Regthuys is een prachtig restaurant in het midden van Wirdum. een rustig dorpje op het Groninger platteland.
 
 't Regthuys
 
 Fromaweg 1,<br/>
 9917 PK Wirdum
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1685.109897753858!2d6.784664420296356!3d53.32346488180914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c9d64df39029cd%3A0xe52d2968ae386f57!2sRestaurant%20&#39;t%20Regthuys!5e0!3m2!1sen!2snl!4v1664216962066!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<h1>Foto beleid</h1>
+Neem gerust fotos tijdens de bruiloft of het feest, zolang je ze maar met ons deeld. Als je het op social media post maak dan gebruik van de #jetfieldwedding hashtag.
