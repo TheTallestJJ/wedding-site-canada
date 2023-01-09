@@ -14,7 +14,7 @@ Of je in de stad wil verblijven of op het platteland er zijn genoeg opties. Hier
 
 Gedempte Kattendiep 25<br />
 9711 PM Groningen<br />
-Netherlands<br />
+Nederland<br />
 <br />
 <a href="https://www.cityhotelgroningen.com/en/">cityhotelgroningen.com</a>
 
@@ -22,7 +22,7 @@ Netherlands<br />
 
 Radesingel 50<br />
 9711 EK Groningen<br />
-Netherlands<br />
+Nederland<br />
 <br />
 <a href="https://hotelgroningencentre.nl/en/">hotelgroningencentre.nl</a>
 
@@ -31,7 +31,7 @@ Netherlands<br />
 
 Grote Markt 31<br />
 9712 HS Groningen<br />
-Netherlands<br />
+Nederland<br />
 <br />
 <a href="https://themarkethotel.com/">themarkethotel.com</a>
 
@@ -42,7 +42,7 @@ Netherlands<br />
 
 Molenweg 11<br />
 9919 AE Loppersum<br />
-Netherlands<br />
+Nederland<br />
 <br />
 <a href="https://www.hotelspoorzichtspa.nl/">hotelspoorzichtspa.nl</a>
 
@@ -50,7 +50,7 @@ Netherlands<br />
 
 Zeebadweg 2<br />
 9933 AV Delfzijl<br />
-Netherlands<br />
+Nederland<br />
 <br />
 <a href="https://www.eemshotel.nl/en/">eemshotel.nl</a>
 
@@ -58,6 +58,6 @@ Netherlands<br />
 
 Alberdaweg 70<br />
 9901 TA Appingedam<br />
-Netherlands<br />
+Nederland<br />
 <br />
 <a href="https://www.ekenstein.com/en/hotel/">ekenstein.com</a>

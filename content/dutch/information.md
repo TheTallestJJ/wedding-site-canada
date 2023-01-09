@@ -6,6 +6,9 @@ description: "Your description, you can add more fields below of course..."
 <h1>Fotobeleid</h1>
 Neem gerust fotos tijdens de bruiloft of het feest, zolang je ze maar met ons deeld. Als je het op social media post maak dan gebruik van de #jetfieldwedding hashtag.
 
+<h1>Trouwgift</h1>
+Het enige wat wij wensen is om het samen met jou te vieren, als je echter toch iets wil geven waarderen we een bijdrage aan onze huwlijksreis.
+
 <h1>Trouwlocatie</h1>
 
 Kerk van Wirdum

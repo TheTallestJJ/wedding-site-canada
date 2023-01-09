@@ -12,7 +12,8 @@ You can get to the location in the following ways:
 <h1 id="taxi">Taxi</h1>
 <h2>Taxis: Taxi UVO</h2>
 
-Phone number: 0595-412611
+Phone number: 0595-412611</br>
+website: <a href="https://www.uvovervoer.nl/">www.uvovervoer.nl</a>
 
 Alternatively, you can let a member of staff help you get a taxi. 
 

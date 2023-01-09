@@ -8,7 +8,7 @@ Feel free to take some photos of your own, as long as you share them with us. If
 
 <h1>Wedding Gifts</h1>
 
-Your presence at our wedding is all that we wish for, however, if you want to give a gift, we will be grateful for a cash donation towards our honeymoon and a new home.
+Your presence at our wedding is all that we wish for, however, if you want to give a gift, we will be grateful for a cash donation towards our honeymoon.
 
 <h1>Ceremony</h1>
 
