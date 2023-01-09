@@ -54,7 +54,7 @@ Netherlands<br />
 <br />
 <a href="https://www.eemshotel.nl/en/">eemshotel.nl</a>
 
-<h3>Estate Ekenstein</h3>
+<h3>Landhuis Ekenstein</h3>
 
 Alberdaweg 70<br />
 9901 TA Appingedam<br />
