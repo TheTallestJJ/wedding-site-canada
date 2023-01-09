@@ -6,11 +6,15 @@ description: "Your description, you can add more fields below of course..."
 <h1>Photo policy</h1>
 Feel free to take some photos of your own, as long as you share them with us. If you do post on social media, please use the #jetfieldwedding hashtag. 
 
+<h1>Wedding Gifts</h1>
+
+Your presence at our wedding is all that we wish for, however, if you want to give a gift, we will be grateful for a cash donation towards our honeymoon and a new home.
+
 <h1>Ceremony</h1>
 
 Kerk van Wirdum
 
-Kerkeweg 24,<br />
+Kerkeweg 24<br />
 9917 PJ Wirdum
 
 The ceremony will be held in the church of Wirdum, a thirteenth century church within the Groninger countryside. An idyllic location due to the green and peaceful atmosphere.
@@ -19,7 +23,7 @@ The ceremony will be held in the church of Wirdum, a thirteenth century church w
 
 't Regthuys
 
-Fromaweg 1,<br/>
+Fromaweg 1<br/>
 9917 PK Wirdum
 
 The reception will be held in the restaurant “’t Regthuys”. The Regthuys is a lovely restaurant in beautiful Wirdum, a quaint town in the Groninger countryside.

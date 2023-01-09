@@ -6,13 +6,13 @@ description: "Our planning, guarenteed to be wrong, but we'll try to keep to it 
 
 <b>3:30 PM</b>  - Ceremony in Church
 
-<b>4:30 PM</b>  - Prosecco and Alcohol Free Aperitif
+<b>4:30 PM</b>  - Aperitif
 
-<b>5:00 PM</b> - 3 Course dinner with included drinks
+<b>5:00 PM</b> - Dinner
 
 <b>7:30 PM</b> - Coffee/Tea and treats
 
-<b>8:00 PM</b> - Party!
+<b>8:00 PM</b> - Party! (With open bar)
 
 <b>12:00 AM</b> - Pierogies
 
