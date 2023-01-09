@@ -14,20 +14,25 @@ Whether you stay in the city, or within the province, there are plenty of places
 
 Gedempte Kattendiep 25<br />
 9711 PM Groningen<br />
-Netherlands
+Netherlands<br />
+<br />
+<a href="https://www.cityhotelgroningen.com/en/">cityhotelgroningen.com</a>
 
 <h3>Best Western Hotel Groningen Centre</h3>
 
 Radesingel 50<br />
 9711 EK Groningen<br />
-Netherlands
-
+Netherlands<br />
+<br />
+<a href="https://hotelgroningencentre.nl/en/">hotelgroningencentre.nl</a>
 
 <h3>The Market Hotel</h3>
 
 Grote Markt 31<br />
 9712 HS Groningen<br />
-Netherlands
+Netherlands<br />
+<br />
+<a href="https://themarkethotel.com/">themarkethotel.com</a>
 
 <h1>Groningen (Province)</h1>
 
@@ -36,16 +41,22 @@ Netherlands
 
 Molenweg 11<br />
 9919 AE Loppersum<br />
-Netherlands
+Netherlands<br />
+<br />
+<a href="https://www.hotelspoorzichtspa.nl/">hotelspoorzichtspa.nl</a>
 
 <h3>Eemshotel</h3>
 
 Zeebadweg 2<br />
 9933 AV Delfzijl<br />
-Netherlands
+Netherlands<br />
+<br />
+<a href="https://www.eemshotel.nl/en/">eemshotel.nl</a>
 
 <h3>Estate Ekenstein</h3>
 
 Alberdaweg 70<br />
 9901 TA Appingedam<br />
-Netherlands
+Netherlands<br />
+<br />
+<a href="https://www.ekenstein.com/en/hotel/">ekenstein.com</a>
