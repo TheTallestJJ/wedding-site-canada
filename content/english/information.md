@@ -28,7 +28,7 @@ Fromaweg 1<br/>
 
 The reception will be held in the restaurant “’t Regthuys”. The Regthuys is a lovely restaurant in beautiful Wirdum, a quaint town in the Groninger countryside.
 
-Both our ceremony and reception location are right across the street from each other
+Both our ceremony and reception location are right across the street from each other.
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1zpfMXipxe8UgFLqH1IiIvPz-AHADe_8&ehbc=2E312F" width="640" height="480"></iframe>
 

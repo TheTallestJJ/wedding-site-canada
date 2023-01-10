@@ -16,39 +16,103 @@
       
       <guid>https://www.jetfield.eu/de/hotels/</guid>
       
-        <description></description>
+        <description>&lt;iframe src=&#34;https://www.google.com/maps/d/u/0/embed?mid=1cI-A2JbfgCQ5K100wCcERvE9fKmSLcQ&amp;ehbc=2E312F&#34; width=&#34;640&#34; height=&#34;480&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;Ob Sie in der Stadt oder in der Provinz wohnen, es gibt viele Übernachtungsmöglichkeiten! Hier sind einige unserer Empfehlungen.&lt;/p&gt;
+&lt;h1&gt;Groningen (Stadt)&lt;/h1&gt;
+&lt;h3&gt;City Hotel Groningen&lt;/h3&gt;
+&lt;p&gt;Gedempte Kattendiep 25&lt;br /&gt;
+9711 PM Groningen&lt;br /&gt;
+Netherlands&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&#34;https://www.cityhotelgroningen.com/de/&#34;&gt;cityhotelgroningen.com&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Best Western Hotel Groningen Centre&lt;/h3&gt;
+&lt;p&gt;Radesingel 50&lt;br /&gt;
+9711 EK Groningen&lt;br /&gt;
+Netherlands&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&#34;https://hotelgroningencentre.nl/de/&#34;&gt;hotelgroningencentre.nl&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;The Market Hotel&lt;/h3&gt;
+&lt;p&gt;Grote Markt 31&lt;br /&gt;
+9712 HS Groningen&lt;br /&gt;
+Netherlands&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&#34;https://themarkethotel.de/&#34;&gt;themarkethotel.com&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Groningen (Provinz)&lt;/h1&gt;
+&lt;h3&gt;Hotel Spoorzicht&lt;/h3&gt;
+&lt;p&gt;Molenweg 11&lt;br /&gt;
+9919 AE Loppersum&lt;br /&gt;
+Netherlands&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&#34;https://www.hotelspoorzichtspa.nl/&#34;&gt;hotelspoorzichtspa.nl&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Eemshotel&lt;/h3&gt;
+&lt;p&gt;Zeebadweg 2&lt;br /&gt;
+9933 AV Delfzijl&lt;br /&gt;
+Netherlands&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&#34;https://www.eemshotel.nl/de/&#34;&gt;eemshotel.nl&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Landgut Ekenstein&lt;/h3&gt;
+&lt;p&gt;Alberdaweg 70&lt;br /&gt;
+9901 TA Appingedam&lt;br /&gt;
+Netherlands&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&#34;https://www.ekenstein.com/de/hotel/&#34;&gt;ekenstein.com&lt;/a&gt;&lt;/p&gt;
+</description>
       
     </item>
     
     <item>
-      <title></title>
-      <link>https://www.jetfield.eu/de/schedule/</link>
+      <title>Anfahrt</title>
+      <link>https://www.jetfield.eu/de/directions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.jetfield.eu/de/schedule/</guid>
+      <guid>https://www.jetfield.eu/de/directions/</guid>
       
-        <description></description>
+        <description>&lt;p&gt;Sie können den Standort auf folgenden Wegen erreichen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#taxi&#34; &gt;Taxi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#ov&#34; &gt;Öffentlicher Verkehr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#drive&#34; &gt;Auto&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;taxi&#34;&gt;Taxi&lt;/h1&gt;
+&lt;h2&gt;Taxis: Taxi UVO&lt;/h2&gt;
+&lt;p&gt;Telefonnummer: +31 595 412611&lt;/br&gt;
+website: &lt;a href=&#34;https://www.uvovervoer.nl/&#34;&gt;&lt;a href=&#34;https://www.uvovervoer.nl&#34;&gt;www.uvovervoer.nl&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;ov&#34;&gt;Public Transit&lt;/h1&gt;
+&lt;p&gt;Es gibt einen regelmäßigen Busservice, der bis etwa 23:30 Uhr verkehrt. Die genauesten Informationen finden Sie unter &lt;a href=https://9292.nl/en&gt;9292.nl&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Bitte beachten Sie, dass von der Bushaltestelle bis zum Ort der Zeremonie und des Empfangs ein ziemlicher Fußweg zurückzulegen ist.&lt;/p&gt;
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d152718.33649663048!2d6.511748221337541!3d53.26760588584851!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x47c83286b462cca7%3A0xcb4b5086f9a6c8dc!2sGroningen!3m2!1d53.2193835!2d6.5665017!4m5!1s0x47c9d64df39029cd%3A0xe52d2968ae386f57!2sRestaurant%20&amp;#39;t%20Regthuys%2C%20Fromaweg%201%2C%209917%20PK%20Wirdum!3m2!1d53.323328499999995!2d6.7858095!5e0!3m2!1sen!2snl!4v1673181763341!5m2!1sen!2snl&#34; width=&#34;600&#34; height=&#34;450&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;no-referrer-when-downgrade&#34;&gt;&lt;/iframe&gt;
+&lt;h1 id=&#34;drive&#34;&gt;Mit dem Auto&lt;/h1&gt;
+&lt;h2&gt;Richtungen&lt;/h2&gt;
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d152688.42126962953!2d6.508815074251473!3d53.27598095548919!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x47c83286b462cca7%3A0xcb4b5086f9a6c8dc!2sGroningen!3m2!1d53.2193835!2d6.5665017!4m5!1s0x47c9d64df39029cd%3A0xe52d2968ae386f57!2sRestaurant%20&amp;#39;t%20Regthuys%2C%20Fromaweg%201%2C%209917%20PK%20Wirdum!3m2!1d53.323328499999995!2d6.7858095!5e0!3m2!1sen!2snl!4v1673181712528!5m2!1sen!2snl&#34; width=&#34;600&#34; height=&#34;450&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;no-referrer-when-downgrade&#34;&gt;&lt;/iframe&gt;
+&lt;h2&gt;Parken&lt;/h2&gt;
+&lt;p&gt;Es wird Parkplätze am Regthuys geben.&lt;/p&gt;
+</description>
       
     </item>
     
     <item>
-      <title>Location</title>
+      <title>Informationen</title>
       <link>https://www.jetfield.eu/de/information/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.jetfield.eu/de/information/</guid>
       
-        <description>&lt;h1&gt;Trouw locatie&lt;/h1&gt;
-Kerk van wirdum
-&lt;p&gt;Kerkeweg 24,&lt;br /&gt;
+        <description>&lt;h1&gt;Fotorichtlinie&lt;/h1&gt;
+Fühlen Sie sich frei, eigene Fotos zu machen, solange Sie sie mit uns teilen. Wenn Sie in den sozialen Medien posten, verwenden Sie bitte den Hashtag #jetfieldwedding.
+&lt;h1&gt;Hochzeitsgeschenke&lt;/h1&gt;
+Ihre Anwesenheit bei unserer Hochzeit ist alles, was wir uns wünschen. Wenn Sie jedoch ein Geschenk machen möchten, sind wir für eine Geldspende für unsere Flitterwochen dankbar.
+&lt;h1&gt;Zeremonie&lt;/h1&gt;
+&lt;p&gt;Kerk Wirdum&lt;/p&gt;
+&lt;p&gt;Kerkeweg 24&amp;lt;/ br&amp;gt;
 9917 PJ Wirdum&lt;/p&gt;
-&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1685.109897753858!2d6.784664420296356!3d53.32346488180914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c9d64d8c638ecb%3A0x2dd401456b93e093!2sKerk%20van%20Wirdum!5e0!3m2!1sen!2snl!4v1664216912685!5m2!1sen!2snl&#34; width=&#34;600&#34; height=&#34;450&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;no-referrer-when-downgrade&#34;&gt;&lt;/iframe&gt;
-&lt;hr /&gt;
-&lt;h1&gt;Feest locatie&lt;/h1&gt;
+&lt;p&gt;Die Zeremonie findet in der Kirche von Wirdum statt, einer Kirche aus dem 13. Jahrhundert in der Groninger Landschaft. Eine idyllische Lage aufgrund der grünen und ruhigen Atmosphäre.&lt;/p&gt;
+&lt;h1&gt;Rezeption&lt;/h1&gt;
 &lt;p&gt;&amp;rsquo;t Regthuys&lt;/p&gt;
-&lt;p&gt;Fromaweg 1,&lt;br/&gt;
+&lt;p&gt;Fromaweg 1&amp;lt;/ br&amp;gt;
 9917 PK Wirdum&lt;/p&gt;
-&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1685.109897753858!2d6.784664420296356!3d53.32346488180914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c9d64df39029cd%3A0xe52d2968ae386f57!2sRestaurant%20&amp;#39;t%20Regthuys!5e0!3m2!1sen!2snl!4v1664216962066!5m2!1sen!2snl&#34; width=&#34;600&#34; height=&#34;450&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;no-referrer-when-downgrade&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;Der Empfang findet im Restaurant „’t Regthuys“ statt. Das Regthuys ist ein schönes Restaurant im schönen Wirdum, einer malerischen Stadt in der Groninger Landschaft.&lt;/p&gt;
+&lt;p&gt;Sowohl unsere Zeremonie als auch unser Empfangsort befinden sich direkt auf der anderen Straßenseite.&lt;/p&gt;
+&lt;iframe src=&#34;https://www.google.com/maps/d/u/0/embed?mid=1zpfMXipxe8UgFLqH1IiIvPz-AHADe_8&amp;ehbc=2E312F&#34; width=&#34;640&#34; height=&#34;480&#34;&gt;&lt;/iframe&gt;
 </description>
       
     </item>
@@ -60,7 +124,26 @@ Kerk van wirdum
       
       <guid>https://www.jetfield.eu/de/rsvp/</guid>
       
-        <description>&lt;script src=&#34;https://static.airtable.com/js/embed/embed_snippet_v1.js&#34;&gt;&lt;/script&gt;&lt;iframe class=&#34;airtable-embed airtable-dynamic-height&#34; src=&#34;https://airtable.com/embed/shrUhrVJUI9RXlmBv?backgroundColor=green&#34; frameborder=&#34;0&#34; onmousewheel=&#34;&#34; width=&#34;100%&#34; height=&#34;1108&#34; style=&#34;background: transparent; border: 1px solid #ccc;&#34;&gt;&lt;/iframe&gt;
+        <description>&lt;script src=&#34;https://static.airtable.com/js/embed/embed_snippet_v1.js&#34;&gt;&lt;/script&gt;&lt;iframe class=&#34;airtable-embed airtable-dynamic-height&#34; src=&#34;https://airtable.com/embed/shrWSxtiXymjPbvGi?backgroundColor=green&#34; frameborder=&#34;0&#34; onmousewheel=&#34;&#34; width=&#34;100%&#34; height=&#34;921&#34; style=&#34;background: transparent; border: 1px solid #ccc;&#34;&gt;&lt;/iframe&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Zeitplan</title>
+      <link>https://www.jetfield.eu/de/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jetfield.eu/de/schedule/</guid>
+      
+        <description>&lt;p&gt;&lt;b&gt;15:00 Uhr&lt;/b&gt; - Ankunft&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;15:30 Uhr&lt;/b&gt; – Zeremonie in der Kirche&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;16:30 Uhr&lt;/b&gt; – Aperitifs&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;17:00 Uhr&lt;/b&gt; – Abendessen&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;19:30 Uhr&lt;/b&gt; – Kaffee/Tee und Leckereien&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;20:00 Uhr&lt;/b&gt; - Party! (Mit offenem Balken)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;00:00 Uhr&lt;/b&gt; – Piroggen&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;00:30 Uhr&lt;/b&gt; Abschied mit Wunderkerzen&lt;/p&gt;
 </description>
       
     </item>

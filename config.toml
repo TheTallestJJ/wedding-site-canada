@@ -121,12 +121,12 @@ defaultContentLanguage = "en"           # Default language to use
   identifier = "home"
   url = "/"
 [[languages.de.menu.main]]
-  name = "Information"
+  name = "Informationen"
   weight = 20
   identifier = "info"
   url = "/information/"
 [[languages.de.menu.main]]
-  name = "Schedule"
+  name = "Zeitplan"
   weight = 30
   identifier = "schedule"
   url = "/schedule/"

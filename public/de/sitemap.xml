@@ -14,8 +14,9 @@
   </url>
   
   <url>
-    <loc>https://www.jetfield.eu/de/schedule/</loc>
-    <priority>0</priority>
+    <loc>https://www.jetfield.eu/de/directions/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -38,6 +39,12 @@
   
   <url>
     <loc>https://www.jetfield.eu/de/rsvp/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jetfield.eu/de/schedule/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
