@@ -13,7 +13,7 @@ Ihre Anwesenheit bei unserer Hochzeit ist alles, was wir uns wünschen. Wenn Sie
 
 Kerk Wirdum
 
-Kerkeweg 24</ br>
+Kerkeweg 24<br />
 9917 PJ Wirdum
  
 Die Zeremonie findet in der Kirche von Wirdum statt, einer Kirche aus dem 13. Jahrhundert in der Groninger Landschaft. Eine idyllische Lage aufgrund der grünen und ruhigen Atmosphäre.
@@ -22,7 +22,7 @@ Die Zeremonie findet in der Kirche von Wirdum statt, einer Kirche aus dem 13. Ja
 
 't Regthuys
 
-Fromaweg 1</ br>
+Fromaweg 1<br />
 9917 PK Wirdum
  
 Der Empfang findet im Restaurant „’t Regthuys“ statt. Das Regthuys ist ein schönes Restaurant im schönen Wirdum, einer malerischen Stadt in der Groninger Landschaft.
