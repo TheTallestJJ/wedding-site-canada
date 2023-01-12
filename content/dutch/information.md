@@ -13,7 +13,7 @@ Het enige wat wij wensen is om het samen met jou te vieren, als je echter toch i
 
 Kerk van Wirdum
 
-Kerkeweg 24,<br />
+Kerkeweg 24<br />
 9917 PJ Wirdum
 
 De huwelijksvoltrekking word gehouden in het kerkje van Wirdum.
@@ -23,7 +23,7 @@ Een dertiende eeuwse kerk op het Groninger platteland. Een idyllische locatie do
 
 't Regthuys
 
-Fromaweg 1,<br/>
+Fromaweg 1<br/>
 9917 PK Wirdum
 
 Het trouwfeest wordt gehouden in het restaurant 't Regthuys. 't Regthuys is een prachtig restaurant in het midden van Wirdum, een rustig dorpje op het Groninger platteland.

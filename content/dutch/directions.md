@@ -12,7 +12,7 @@ De lokatie is te bereiken op verscheidenen manieren:
 <h1 id="taxi">Taxi</h1>
 <h2>Taxis: Taxi UVO</h2>
 
-Telefoon: 0595-412611</ br>
+Telefoon: 0595-412611<br />
 website: <a href="https://www.uvovervoer.nl/">www.uvovervoer.nl</a>
 
 <h1 id="ov">Openbaar vervoer</h1>
