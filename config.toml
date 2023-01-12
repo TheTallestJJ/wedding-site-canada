@@ -131,7 +131,7 @@ defaultContentLanguage = "en"           # Default language to use
   identifier = "schedule"
   url = "/schedule/"
 [[languages.de.menu.main]]
-  name = "Directions"
+  name = "Anfahrt"
   weight = 40
   identifier = "directions"
   url = "/directions/"
