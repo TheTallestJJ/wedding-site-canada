@@ -24,7 +24,7 @@ defaultContentLanguage = "en"           # Default language to use
   [languages.de]
     contentDir = 'content/german'
     languageName = 'Deutsch'
-    title = 'geen idee'
+    title = 'Hochzeitsseite'
     weight = 3
     [languages.de.menu]
   [languages.nl]
