@@ -1,6 +1,6 @@
 ---
 title: "Informatie"
-description: "Your description, you can add more fields below of course..."
+description: "Algemene informatie over onze bruiloft"
 ---
 
 <h1>Fotobeleid</h1>

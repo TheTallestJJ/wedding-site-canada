@@ -1,6 +1,6 @@
 ---
 title: "Information"
-description: "Your description, you can add more fields below of course..."
+description: "General information about the wedding"
 ---
 
 <h1>Photo policy</h1>

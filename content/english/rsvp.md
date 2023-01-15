@@ -1,6 +1,6 @@
 ---
 title: "RSVP"
-description: "Your description, you can add more fields below of course..."
+description: "The form to indicate whether you can attend our wedding"
 ---
 
 Please fill in the form below before the <b>21st of March</b>. You can resubmit the form as many times as you like in case anything changes. We will update the meal options with more detail closer to the event, and will let you know over email whenever anything changes.

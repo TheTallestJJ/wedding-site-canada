@@ -1,6 +1,6 @@
 ---
 title: "Planning"
-description: "Our planning, guarenteed to be wrong, but we'll try to keep to it anyways."
+description: "Onze planning voor onze bruiloft"
 ---
 <b>15:00</b> - Aankomst in restaurant
 

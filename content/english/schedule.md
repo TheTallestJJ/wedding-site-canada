@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-description: "Our planning, guarenteed to be wrong, but we'll try to keep to it anyways."
+description: "The planned time schedule for our wedding"
 ---
 <b>3:00 PM</b> - Arrival at restaurant
 

@@ -1,6 +1,6 @@
 ---
 title: "RSVP"
-description: "Your description, you can add more fields below of course..."
+description: "The form to indicate whether you can attend our wedding"
 ---
 
 Bitte füllen Sie das untenstehende Formular vor dem <b>21. März</b> aus. Sie können das Formular so oft erneut einreichen, wie Sie möchten, falls sich etwas ändert. Wir werden die Essensoptionen näher an der Veranstaltung mit mehr Details aktualisieren und Sie per E-Mail informieren, wenn sich etwas ändert.

@@ -1,6 +1,6 @@
 ---
 title: "Bereikbaarheid"
-description: "Your description, you can add more fields below of course..."
+description: "Hoe je onze bruiloft kan bereiken"
 ---
 
 De lokatie is te bereiken op verscheidenen manieren:

@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.jetfield.eu/de/hotels/</loc>
-    <lastmod>2022-09-26T22:06:53+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://www.jetfield.eu/de/</loc>
     <priority>0</priority>
   </url>
@@ -21,6 +14,12 @@
   
   <url>
     <loc>https://www.jetfield.eu/de/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jetfield.eu/de/hotels/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

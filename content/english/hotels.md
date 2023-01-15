@@ -1,7 +1,6 @@
 ---
 title: "Hotels"
-date: 2022-09-26T22:06:53+02:00
-draft: false
+description: "Hotels close to our wedding location"
 ---
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1cI-A2JbfgCQ5K100wCcERvE9fKmSLcQ&ehbc=2E312F" width="640" height="480"></iframe>

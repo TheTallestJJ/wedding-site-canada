@@ -1,6 +1,6 @@
 ---
 title: "Anfahrt"
-description: "Your description, you can add more fields below of course..."
+description: "Ways to get to our wedding location."
 ---
 
 Sie können den Standort auf folgenden Wegen erreichen:

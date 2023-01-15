@@ -1,6 +1,6 @@
 ---
 title: "RSVP"
-description: "Your description, you can add more fields below of course..."
+description: "Formulier om aan te geven of je aanwezig zal zijn"
 ---
 Vul het formulier in voor <b>21 maart</b>. Je kunt het fomulier zo vaak als je wil opnieuw indienen, in het geval je iets wil veranderen in je keuzes. We zullen de maaltijdopties bijwerken met meer details dichter bij het evenement, en houden je op de hoogte van wijzegingen per email.
 
