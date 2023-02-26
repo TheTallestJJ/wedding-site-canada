@@ -31,6 +31,12 @@
   </url>
   
   <url>
+    <loc>https://www.jetfield.eu/nl/menu/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.jetfield.eu/nl/schedule/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

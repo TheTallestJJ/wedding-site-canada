@@ -63,6 +63,11 @@ defaultContentLanguage = "en"           # Default language to use
   identifier = "schedule"
   url = "/schedule/"
 [[menu.main]]
+  name = "Menu"
+  weight = 35
+  identifier = "menu"
+  url = "/menu/"
+[[menu.main]]
   name = "Directions"
   weight = 40
   identifier = "directions"
@@ -97,6 +102,11 @@ defaultContentLanguage = "en"           # Default language to use
   identifier = "schedule"
   url = "/schedule/"
 [[languages.nl.menu.main]]
+  name = "Menu"
+  weight = 35
+  identifier = "menu"
+  url = "/menu/"
+[[languages.nl.menu.main]]
   name = "Bereikbaarheid"
   weight = 40
   identifier = "directions"
@@ -130,6 +140,11 @@ defaultContentLanguage = "en"           # Default language to use
   weight = 30
   identifier = "schedule"
   url = "/schedule/"
+[[languages.de.menu.main]]
+  name = "Menu"
+  weight = 35
+  identifier = "menu"
+  url = "/menu/"
 [[languages.de.menu.main]]
   name = "Anfahrt"
   weight = 40
