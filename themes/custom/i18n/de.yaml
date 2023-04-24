@@ -1,8 +1,8 @@
 - id: IntroTitle
-  translation: Willkommen
+  translation: Vielen Dank 
 
 - id: IntroText
-  translation: Jeroen und Kathryn laden Sie ein, ihre Hochzeit am 21. April 2023 zu feiern. Wir hoffen, dass Sie an diesem ganz besonderen Tag dabei sein können!
+  translation: Vielen Dank, dass Sie die Hochzeit mit uns gefeiert haben, sie hat alle unsere Erwartungen übertroffen! Wir hoffen, es hat euch genauso gut gefallen wie uns.
 
 - id: LanguageTitle
   translation: Sprachen
@@ -11,10 +11,13 @@
   translation: Diese Website ist in folgenden Sprachen verfügbar
 
 - id: OurStoryTitle
-  translation: Unsere Geschichte
+  translation: Foto-Upload
 
 - id: OurStory
-  translation: Jeroen und Kathryn lernten sich 2007 im Internet kennen. Nach rund zweijähriger Korrespondenz beschlossen sie am 18. Januar 2009, ein Paar zu werden. Ihre Beziehung wurde gefestigt, als sie sich am 11. Juli 2009 in München zum ersten Mal offline trafen. Der Rest ist, wie sie sagen, Geschichte.
+  translation: Wir würden uns freuen, die Bilder und Videos zu sehen, die Sie an unserem besonderen Tag gemacht haben. Über den untenstehenden Link oder durch Scannen des QR-Codes mit Ihrem Telefon können Sie die aufgenommenen Bilder hochladen.
+
+- id: PhotoUpload
+  translation: Foto-Upload
 
 - id: archive
   translation: Archiv

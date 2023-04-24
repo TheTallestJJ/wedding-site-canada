@@ -1,8 +1,9 @@
 - id: IntroTitle
-  translation: Welkom
+  translation: Bedankt 
 
 - id: IntroText
-  translation: Kathryn Duffield en Jeroen Jetten nodigen je uit voor ons huwelijk op 21 april 2023. We hopen dat je er bij kunt zijn om samen met ons deze belangrijke dag te beleven!
+  translation: Heel erg bedankt voor het vieren van de bruiloft met ons, het overtrof al onze verwachtingen! We hopen dat je er net zo van hebt genoten als wij.  
+  #  Kathryn Duffield en Jeroen Jetten nodigen je uit voor ons huwelijk op 21 april 2023. We hopen dat je er bij kunt zijn om samen met ons deze belangrijke dag te beleven!
 
 - id: LanguageTitle
   translation: Talen
@@ -11,10 +12,10 @@
   translation: Deze website is beschikbaar in de volgende talen
 
 - id: OurStoryTitle
-  translation: Ons verhaal
-
+  translation: Foto's uploaden 
 - id: OurStory
-  translation: Jeroen en Kathryn hebben elkaar leren kennen op het internet in 2007. Na twee jaar zijn ze een relatie begonnen op 18 januarie 2009. Dat werd al snel opgevogld door hun eerste echte ontmoeting in Munchen op 11 juli 2009. De rest is geschiedenis.
+  translation: We zouden graag de foto's en video's zien die je op onze speciale dag hebt gemaakt. Via onderstaande link of door de QR-code met je telefoon te scannen kun je de foto's die je hebt gemaakt uploaden.
+  #  Jeroen en Kathryn hebben elkaar leren kennen op het internet in 2007. Na twee jaar zijn ze een relatie begonnen op 18 januarie 2009. Dat werd al snel opgevogld door hun eerste echte ontmoeting in Munchen op 11 juli 2009. De rest is geschiedenis.
 
 - id: archive
   translation: Archive

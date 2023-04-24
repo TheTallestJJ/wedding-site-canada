@@ -1,8 +1,10 @@
 - id: IntroTitle
-  translation: Welcome
+  translation: Thank you
 
 - id: IntroText
-  translation: Jeroen and Kathryn invite you to celebrate their wedding on April 21, 2023. We hope you’ll be able to join us on this very special day!
+  translation: Thank you so much for celebrating the wedding with us, it exceeded all our expectations! We hope you enjoyed it just as much as we did.
+
+# Jeroen and Kathryn invite you to celebrate their wedding on April 21, 2023. We hope you’ll be able to join us on this very special day!
 
 - id: LanguageTitle
   translation: Languages
@@ -11,10 +13,19 @@
   translation:  This website is available in the following languages
 
 - id: OurStoryTitle
-  translation: Our story
+  translation: Photo Upload
+  
+# Our story
 
 - id: OurStory
-  translation: Jeroen and Kathryn met on the internet back in 2007. After corresponding for around two years, they decided to become a couple on January 18, 2009. Their relationship became cemented when they met offline for the first time on July 11, 2009 in Munich. The rest, as they say, is history.
+  translation: We would love to see the pictures and videos you took on our special day. Using the link below or by scanning the QR code with your phone you can upload the pictures you took.
+  #  Jeroen and Kathryn met on the internet back in 2007. After corresponding for around two years, they decided to become a couple on January 18, 2009. Their relationship became cemented when they met offline for the first time on July 11, 2009 in Munich. The rest, as they say, is history.
+
+- id: PhotoUpload
+  translation: Photo Upload
+
+- id: Gallery
+  translation: Gallery
 
 - id: archive
   translation: Archive
