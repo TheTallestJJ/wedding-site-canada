@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Wedsite</title>
-    <link>https://www.jetfield.eu/tags/</link>
+    <link>https://canada.jetfield.eu/tags/</link>
     <description>Recent content in Tags on Wedsite</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.jetfield.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://canada.jetfield.eu/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

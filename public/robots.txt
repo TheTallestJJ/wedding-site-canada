@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://www.jetfield.eu/sitemap.xml
+Sitemap: https://canada.jetfield.eu/sitemap.xml

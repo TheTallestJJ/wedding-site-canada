@@ -2,7 +2,7 @@
 # If you want to see the full configuration, please check `full-config.toml` .
 # And see https://gohugo.io/getting-started/configuration/ .
 
-baseURL = "https://www.jetfield.eu"
+baseURL = "https://canada.jetfield.eu"
 title = "Wedding site - Kathryn Duffield and Jeroen Jetten"
 enableRobotsTXT = true
 enableEmoji = true
@@ -21,17 +21,6 @@ defaultContentLanguage = "en"           # Default language to use
     languageName = 'English'
     title = 'Wedsite'
     weight = 1
-  [languages.de]
-    contentDir = 'content/german'
-    languageName = 'Deutsch'
-    title = 'Hochzeitsseite'
-    weight = 3
-    [languages.de.menu]
-  [languages.nl]
-    contentDir = 'content/dutch'
-    languageName = 'Nederlands'
-    title = 'Bruiloft site'
-    weight = 2
 
 [markup.goldmark.renderer]
  unsafe = true
@@ -83,83 +72,6 @@ defaultContentLanguage = "en"           # Default language to use
   identifier = "rsvp"
   url = "/rsvp/"
 
-#------------------
-# Dutch menu
-#------------------
-[[languages.nl.menu.main]]
-  name = "Home"
-  weight = 10
-  identifier = "home"
-  url = "/"
-[[languages.nl.menu.main]]
-  name = "Informatie"
-  weight = 20
-  identifier = "info"
-  url = "/information/"
-[[languages.nl.menu.main]]
-  name = "Planning"
-  weight = 30
-  identifier = "schedule"
-  url = "/schedule/"
-[[languages.nl.menu.main]]
-  name = "Menu"
-  weight = 35
-  identifier = "menu"
-  url = "/menu/"
-[[languages.nl.menu.main]]
-  name = "Bereikbaarheid"
-  weight = 40
-  identifier = "directions"
-  url = "/directions/"
-[[languages.nl.menu.main]]
-  name = "Hotels"
-  weight = 50
-  identifier = "hotels"
-  url = "/hotels/"
-[[languages.nl.menu.main]]
-  name = "RSVP"
-  weight = 60
-  identifier = "rsvp"
-  url = "/rsvp/"
-
-#------------------
-# German menu
-#------------------
-[[languages.de.menu.main]]
-  name = "Home"
-  weight = 10
-  identifier = "home"
-  url = "/"
-[[languages.de.menu.main]]
-  name = "Informationen"
-  weight = 20
-  identifier = "info"
-  url = "/information/"
-[[languages.de.menu.main]]
-  name = "Zeitplan"
-  weight = 30
-  identifier = "schedule"
-  url = "/schedule/"
-[[languages.de.menu.main]]
-  name = "Menu"
-  weight = 35
-  identifier = "menu"
-  url = "/menu/"
-[[languages.de.menu.main]]
-  name = "Anfahrt"
-  weight = 40
-  identifier = "directions"
-  url = "/directions/"
-[[languages.de.menu.main]]
-  name = "Hotels"
-  weight = 50
-  identifier = "hotels"
-  url = "/hotels/"
-[[languages.de.menu.main]]
-  name = "RSVP"
-  weight = 60
-  identifier = "rsvp"
-  url = "/rsvp/"
 
 [params]
   since = "2022"            # Site creation time          # 站点建立时间

@@ -1,19 +1,57 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml-stylesheet type="text/xsl" href="https://canada.jetfield.eu/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <sitemap>
-    <loc>https://www.jetfield.eu/en/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>https://canada.jetfield.eu/</loc>
+    <priority>0</priority>
+  </url>
   
-  <sitemap>
-    <loc>https://www.jetfield.eu/nl/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>https://canada.jetfield.eu/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
   
-  <sitemap>
-    <loc>https://www.jetfield.eu/de/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>https://canada.jetfield.eu/directions/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
   
-</sitemapindex>
+  <url>
+    <loc>https://canada.jetfield.eu/hotels/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://canada.jetfield.eu/information/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://canada.jetfield.eu/menu/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://canada.jetfield.eu/rsvp/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://canada.jetfield.eu/schedule/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://canada.jetfield.eu/tags/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
