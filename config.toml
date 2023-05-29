@@ -62,11 +62,6 @@ defaultContentLanguage = "en"           # Default language to use
   identifier = "directions"
   url = "/directions/"
 [[menu.main]]
-  name = "Hotels"
-  weight = 50
-  identifier = "hotels"
-  url = "/hotels/"
-[[menu.main]]
   name = "RSVP"
   weight = 60
   identifier = "rsvp"

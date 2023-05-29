@@ -8,16 +8,6 @@
       <h1 class="post-title">{{ .Title }}</h1>
   </div>
 
-  <h1>{{ i18n "LanguageTitle" . }}</h1>
-  {{ i18n "LanguageText" . }}:
-
-    <ul>
-      {{ range $.Site.Home.AllTranslations }}
-        <li><a class="link" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
-      {{ end }}
-    </ul>
-
-
   <h1>{{ i18n "OurStoryTitle" . }}</h1>
   {{ i18n "OurStory" . }}
 </article>
