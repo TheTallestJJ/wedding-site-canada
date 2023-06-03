@@ -25,3 +25,37 @@ Portebello stuffed with eggplant caviar, four D'ambert, cous cous.
 
 Wedding Cake
 </div>
+
+<h1>Appetizers</h1>
+(both will be served):
+
+- Grilled Portobello Mushrooms with Goat Cheese and Roasted Red Pepper. Served over five leaf lettuce with Citrus Balsamic Vinaigrette
+
+<h3>And</h3>
+
+- Lobster Ravioli with a Mornay Sauce
+
+
+<h1>Entrees</h1>
+(choice of):
+
+- Thyme & Lemon rubbed Grilled Cornish Hen, with Citrus Demi
+
+<h3>Or</h3>
+
+- Duo of New York Striploin & Black Tiger Shrimp
+
+<h3>Or</h3>
+
+- Roasted Salmon Filet with Seared Scallops in a Lobster Butter Sauce
+
+<h3>Or</h3>
+
+- Bento Box with Braised Tofu, Tempura Vegetables, Glass Noodles, and Seaweed Salad
+
+
+<h1>Dessert</h1>
+
+- Dulche de Leche Caramel Mousse Cheesecake
+- Coffee/Tea
+

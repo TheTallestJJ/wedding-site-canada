@@ -2,19 +2,10 @@
 title: "Schedule"
 description: "The planned time schedule for our wedding"
 ---
-<b>3:00 PM</b> - Arrival at restaurant
 
-<b>3:30 PM</b>  - Ceremony in Church
-
-<b>4:30 PM</b>  - Aperitif
-
-<b>5:00 PM</b> - Dinner
-
-<b>7:30 PM</b> - Coffee/Tea and treats
-
-<b>8:00 PM</b> - Party! (With open bar)
-
-<b>12:00 AM</b> - Pierogies
-
-<b>12:30 AM</b> - Send off with sparklers
-
+<b>2:30 PM</b> - Wedding Ceremony at St. George’s
+<b>5:00 PM</b> - Cocktail Reception at the Bickford House, Guild Inn
+<b>6:30 PM</b> -  Dinner
+<b>9:00 PM</b> -  Party!
+<b>11:45 PM</b> - Send-Off
+<b>12:00 AM</b> - Event ends

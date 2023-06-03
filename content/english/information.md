@@ -13,13 +13,21 @@ description: "General information about the wedding"
 
 
 
-<h1>Ceremony</h1> - St. George’s Lutheran Church - 410 College St, Toronto, ON M5T 1S8
+<h1>Ceremony</h1>
+St. George’s Lutheran Church<br/>
+<br/>
+410 College St<br/>
+Toronto ON M5T 1S8<br/>
 
 It means a lot that we are able to have a ceremony at this church. St. George’s has been Kathryn’s family’s church for over 70 years and she was christened and confirmed there. It is located on the north side of College Street, just east of Bathurst (at Lippincott).
 
 (Add Map Embed)
 
-<h1>Reception</h1> - Guild Inn Estate - 201 Guildwood Pkwy, Scarborough, ON M1E 1P5
+<h1>Reception</h1>
+Guild Inn Estate<br/>
+<br/>
+201 Guildwood Pkwy<br/>
+Scarborough ON M1E 1P5<br/>
 
 The Guild Inn Estate is Toronto’s hidden gem on the waterfront. Situated on the Scarborough Bluffs overlooking Lake Ontario, it is surrounded by 88 acres of beautifully landscaped gardens. Our reception will be held in the Bickford House, which is part of the original estate. 
 
