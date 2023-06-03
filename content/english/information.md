@@ -3,32 +3,25 @@ title: "Information"
 description: "General information about the wedding"
 ---
 
-<h1>Photo policy</h1>
-Feel free to take some photos of your own, as long as you share them with us. If you do post on social media, please use the #jetfieldwedding hashtag. 
+<h1>Photo policy:</h1>
+
+ Feel free to take photos of your own, and it would be greatly appreciated if you share them with us. If you do post on social media, please use the #jetfieldwedding hashtag. 
 
 <h1>Wedding Gifts</h1>
 
-Your presence at our wedding is all that we wish for, however, if you want to give a gift, we will be grateful for a cash donation towards our honeymoon.
+”Your presence at our wedding is all that we wish for, however, if you want to give a gift, we would be grateful for a cash donation towards our honeymoon and a new home.” 
 
-<h1>Ceremony</h1>
 
-Kerk van Wirdum
 
-Kerkeweg 24<br />
-9917 PJ Wirdum
+<h1>Ceremony</h1> - St. George’s Lutheran Church - 410 College St, Toronto, ON M5T 1S8
 
-The ceremony will be held in the church of Wirdum, a thirteenth century church within the Groninger countryside. An idyllic location due to the green and peaceful atmosphere.
+It means a lot that we are able to have a ceremony at this church. St. George’s has been Kathryn’s family’s church for over 70 years and she was christened and confirmed there. It is located on the north side of College Street, just east of Bathurst (at Lippincott).
 
-<h1>Reception</h1>
+(Add Map Embed)
 
-'t Regthuys
+<h1>Reception</h1> - Guild Inn Estate - 201 Guildwood Pkwy, Scarborough, ON M1E 1P5
 
-Fromaweg 1<br/>
-9917 PK Wirdum
+The Guild Inn Estate is Toronto’s hidden gem on the waterfront. Situated on the Scarborough Bluffs overlooking Lake Ontario, it is surrounded by 88 acres of beautifully landscaped gardens. Our reception will be held in the Bickford House, which is part of the original estate. 
 
-The reception will be held in the restaurant “’t Regthuys”. The Regthuys is a lovely restaurant in beautiful Wirdum, a quaint town in the Groninger countryside.
-
-Both our ceremony and reception location are right across the street from each other.
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1zpfMXipxe8UgFLqH1IiIvPz-AHADe_8&ehbc=2E312F" width="640" height="480"></iframe>
+(Add Map Embed)
 
