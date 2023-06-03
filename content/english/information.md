@@ -21,7 +21,7 @@ Toronto ON M5T 1S8<br/>
 
 It means a lot that we are able to have a ceremony at this church. St. George’s has been Kathryn’s family’s church for over 70 years and she was christened and confirmed there. It is located on the north side of College Street, just east of Bathurst (at Lippincott).
 
-(Add Map Embed)
+<iframe src="https://www.google.com/maps/d/embed?mid=16MdBV3RtwOxB3HrHjEFMPLzVc73AHdA&ehbc=2E312F" width="640" height="480"></iframe>
 
 <h1>Reception</h1>
 Guild Inn Estate<br/>
