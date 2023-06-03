@@ -3,7 +3,7 @@ title: "Information"
 description: "General information about the wedding"
 ---
 
-<h1>Photo policy:</h1>
+<h1>Photo policy</h1>
 
  Feel free to take photos of your own, and it would be greatly appreciated if you share them with us. If you do post on social media, please use the #jetfieldwedding hashtag. 
 
