@@ -9,7 +9,7 @@ description: "General information about the wedding"
 
 <h1>Wedding Gifts</h1>
 
-”Your presence at our wedding is all that we wish for, however, if you want to give a gift, we would be grateful for a cash donation towards our honeymoon and a new home.” 
+Your presence at our wedding is all that we wish for, however, if you want to give a gift, we would be grateful for a cash donation towards our honeymoon and a new home.” 
 
 
 
