@@ -31,5 +31,4 @@ Scarborough ON M1E 1P5<br/>
 
 The Guild Inn Estate is Toronto’s hidden gem on the waterfront. Situated on the Scarborough Bluffs overlooking Lake Ontario, it is surrounded by 88 acres of beautifully landscaped gardens. Our reception will be held in the Bickford House, which is part of the original estate. 
 
-(Add Map Embed)
-
+<iframe src="https://www.google.com/maps/d/embed?mid=1-5Td8ZHrleNDQloscQj92hLKejhVNWU&ehbc=2E312F" width="640" height="480"></iframe>
