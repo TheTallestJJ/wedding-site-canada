@@ -26,12 +26,12 @@ Duo of New York Striploin & Black Tiger Shrimp
 
 <h5>Or</h5>
 
-<i>Roasted Salmon Filet</i>
+<i>Roasted Salmon Filet</i><br />
 Roasted Salmon Filet with Seared Scallops in a Lobster Butter Sauce
 
 <h5>Or</h5>
 
-<b>Bento Box</b>
+<b>Bento Box</b><br />
 Bento Box with Braised Tofu, Tempura Vegetables, Glass Noodles, and Seaweed Salad
 
 
