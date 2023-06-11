@@ -15,18 +15,23 @@ Lobster Ravioli with a Mornay Sauce
 
 <h1>Entrees</h1>
 
+<h3>Grilled Cornish Hen</h3>
 Thyme & Lemon rubbed Grilled Cornish Hen, with Citrus Demi
 
 <h5>Or</h5>
 
+
+<h6>New York Striploin</h6>
 Duo of New York Striploin & Black Tiger Shrimp
 
 <h5>Or</h5>
 
+<h7>Roasted Salmon Filet</h7>
 Roasted Salmon Filet with Seared Scallops in a Lobster Butter Sauce
 
 <h5>Or</h5>
 
+<h9>Bento Box</h9>
 Bento Box with Braised Tofu, Tempura Vegetables, Glass Noodles, and Seaweed Salad
 
 
