@@ -21,17 +21,17 @@ Thyme & Lemon rubbed Grilled Cornish Hen, with Citrus Demi
 <h5>Or</h5>
 
 
-<h6>New York Striploin</h6>
+<h3>New York Striploin</h3>
 Duo of New York Striploin & Black Tiger Shrimp
 
 <h5>Or</h5>
 
-<i>Roasted Salmon Filet</i><br />
+<h3>Roasted Salmon Filet</h3>
 Roasted Salmon Filet with Seared Scallops in a Lobster Butter Sauce
 
 <h5>Or</h5>
 
-<b>Bento Box</b><br />
+<h3>Bento Box</h3>
 Bento Box with Braised Tofu, Tempura Vegetables, Glass Noodles, and Seaweed Salad
 
 
