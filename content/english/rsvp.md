@@ -3,6 +3,4 @@ title: "RSVP"
 description: "The form to indicate whether you can attend our wedding"
 ---
 
-The RSVP form has been closed. Please get in touch with us in case of any last minute changes. 
-
-You can reach us at kathryn-and-jeroen@jetfield.eu
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrLMsmfLGNxliJrD?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="1108" style="background: transparent; border: 1px solid #ccc;"></iframe>
