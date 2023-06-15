@@ -21,6 +21,12 @@ Toronto ON M5T 1S8<br/>
 
 It means a lot that we are able to have a ceremony at this church. St. George’s has been Kathryn’s family’s church for over 70 years and she was christened and confirmed there. It is located on the north side of College Street, just east of Bathurst (at Lippincott).
 
+<h3>Church parking options</h3>
+
+- Lippincott St. north of College: one way street running beside the Church. Accessible from Ulster (east side of Bathurst, one block north of College.) Free street parking until one gets close to College St. then Green P rates apply.
+- Bathurst Street north of College(Green P rates apply)
+- Parking lot, southwest corner of Bathurst & College
+
 <iframe src="https://www.google.com/maps/d/embed?mid=16MdBV3RtwOxB3HrHjEFMPLzVc73AHdA&ehbc=2E312F" width="640" height="480"></iframe>
 
 <h1>Reception</h1>
